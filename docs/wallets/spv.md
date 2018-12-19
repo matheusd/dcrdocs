@@ -4,7 +4,9 @@
 
 ## What is SPV?
 
-Simple Payment Verification (SPV) allows the use of a Decred wallet without having to download the entire Decred blockchain. A wallet operating in SPV mode only needs to download full blocks containing transactions relevant to it (i.e. transactions involving the wallet’s addresses). In a typical case, this means downloading tens of megabytes, rather than multiple gigabytes. This reduces the wallet's hardware requirements and greatly reduces the initial load time for new wallets.
+Test.
+
+~Simple Payment Verification (SPV)~ allows the use of a Decred wallet without having to download the entire Decred blockchain. A wallet operating in SPV mode only needs to download full blocks containing transactions relevant to it (i.e. transactions involving the wallet’s addresses). In a typical case, this means downloading tens of megabytes, rather than multiple gigabytes. This reduces the wallet's hardware requirements and greatly reduces the initial load time for new wallets.
 
 SPV has been built directly into the dcrwallet CLI tool — what Decredition and other official wallets use behind the scenes — so all users of official wallets are able to enable SPV.
 
